@@ -263,6 +263,10 @@ input[type=submit] {
   text-align: left;
   /*width: 7%; */
 }
+input[type=reset] {
+  text-align: left;
+  /*width: 7%; */
+}
 
 input[type=email] {
   padding-left: 5px;
